@@ -1,0 +1,23 @@
+.numeric
+{
+    border: 1px solid #ccc;
+    width: 102px;
+    height: 34px;
+    padding-top: 3px;
+}
+
+.numeric input{
+    background: transparent;
+    border: 0;
+    width: 41px;
+    text-align: right;
+    padding: 0;
+}
+
+.numeric button
+{
+    font-size: 20px;
+    border: 0;
+    width: 30px;
+    background-color: transparent;
+}
